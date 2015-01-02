@@ -1,3 +1,4 @@
 MINET
 =====
-java GUI
+java GUI 
+Computer networking project
