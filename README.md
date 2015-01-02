@@ -1,4 +1,6 @@
 MINET
 =====
+
+###Computer networking project
+
 java GUI 
-Computer networking project
